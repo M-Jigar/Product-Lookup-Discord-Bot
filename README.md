@@ -30,7 +30,7 @@ All fetched live from the Platzi Fake Store API and formatted for easy viewing i
 
 ![Find By ID](Project%20Screenshots/find_by_id.jpg)
 
-![Find By Name](Project%20Screenshots/find_name.jpg)
+![Find By Name](Project%20Screenshots/find_by_name.jpg)
 
 ![Find Random](Project%20Screenshots/find_random.jpg)
 
