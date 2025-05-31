@@ -24,18 +24,23 @@ All fetched live from the Platzi Fake Store API and formatted for easy viewing i
 
 ## Screenshots
 
-**Help Command**
+### Help Command
+
 ![Help Command](Project%20Screenshots/help_command.jpg)
 
-**Category Command**
+### Category Command
+
 ![Category Command](Project%20Screenshots/cat_command.jpg)
 
-**Find By ID**
+### Find By ID
+
 ![Find By ID](Project%20Screenshots/find_by_id.jpg)
 
-**Find By Name**
+### Find By Name
+
 ![Find By Name](Project%20Screenshots/find_by_name.jpg)
 
-**Find Random**
+### Find Random
+
 ![Find Random](Project%20Screenshots/find_random.jpg)
 
