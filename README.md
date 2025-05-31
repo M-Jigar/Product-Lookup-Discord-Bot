@@ -21,3 +21,16 @@ Whenever a product is displayed, the bot shows:
 - 🖼️ **Image**
 
 All fetched live from the Platzi Fake Store API and formatted for easy viewing in Discord.
+
+## 📸 Screenshots
+
+![Help Command](Project-Screenshots/help_command.jpg)
+
+![Category Command](Project-Screenshots/cat_command.jpg)
+
+![Find By ID](Project-Screenshots/find_by_id.jpg)
+
+![Find By Name](Project-Screenshots/find_name.jpg)
+
+![Find Random](Project-Screenshots/find_random.jpg)
+
