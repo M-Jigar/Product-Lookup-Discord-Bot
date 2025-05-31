@@ -1,0 +1,39 @@
+
+🛍️ Discord Bot for Fake E-Commerce Product Lookup
+
+Objective:
+Build a Discord bot that fetches and displays product data from the Platzi Fake Store API, allowing users to search for and retrieve product details in real-time using Discord slash or text commands.
+
+API Source:
+https://fakeapi.platzi.com/
+
+Core Features:
+- !find <name or id> – Fetch and display details of a product
+- !category <category> – List products in a specific category
+- !random – Show a random product from the store
+
+Displayed Data (per product):
+- 📦 Product Name
+- 🧾 Description
+- 💰 Price
+- 🗂️ Category   
+- 🖼️ Image
+- 🔗 Direct product link (if available)
+
+Bonus Features (Optional):
+- /top – Show top 5 most expensive products
+- /search <keyword> – Search products by keyword in title or description
+- Allow emoji reactions to add products to a "wishlist" (mocked)
+
+Tech Stack:
+- Python
+- discord.py or nextcord for bot framework
+- requests or httpx for API calls
+- JSON parsing
+
+Skills You'll Practice:
+- Working with REST APIs
+- JSON data parsing and formatting
+- Sending rich embeds in Discord
+- Designing user-friendly command interfaces
+- Error handling (e.g., invalid IDs, empty results)
