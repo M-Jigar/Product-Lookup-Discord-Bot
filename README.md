@@ -1,8 +1,8 @@
-# 🛍️ Product Lookup Discord Bot
+# Product Lookup Discord Bot
 
 This is a Discord bot I built to fetch and display product information from the [Platzi Fake Store API](https://fakeapi.platzi.com/). The bot is designed to make it easy (and kind of fun!) for users to search for products and view their details directly in Discord using simple commands.
 
-## 🤖 What the Bot Can Do
+## What the Bot Can Do
 
 With just a few commands, users can:
 
@@ -10,27 +10,27 @@ With just a few commands, users can:
 - `!category` – See a list of available categories and react with emojis to explore products in each one.
 - `!find random` – Not sure what you want? Get a random product surprise!
 
-## 🧾 What You'll See for Each Product
+## What You'll See for Each Product
 
 Whenever a product is displayed, the bot shows:
 
-- 📦 **Product Name**
-- 🧾 **Description**
-- 💰 **Price**
-- 🗂️ **Category**
-- 🖼️ **Image**
+- **Product Name**
+- **Description**
+- **Price**
+- **Category**
+- **Image**
 
 All fetched live from the Platzi Fake Store API and formatted for easy viewing in Discord.
 
-## 📸 Screenshots
+## Screenshots
 
-![Help Command](Project-Screenshots/help_command.jpg)
+![Help Command](Project%20Screenshots/help_command.jpg)
 
-![Category Command](Project-Screenshots/cat_command.jpg)
+![Category Command](Project%20Screenshots/cat_command.jpg)
 
-![Find By ID](Project-Screenshots/find_by_id.jpg)
+![Find By ID](Project%20Screenshots/find_by_id.jpg)
 
-![Find By Name](Project-Screenshots/find_name.jpg)
+![Find By Name](Project%20Screenshots/find_name.jpg)
 
-![Find Random](Project-Screenshots/find_random.jpg)
+![Find Random](Project%20Screenshots/find_random.jpg)
 
