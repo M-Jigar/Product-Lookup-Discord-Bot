@@ -1,1 +1,7 @@
 bot.env
+
+.env
+
+__pycache__
+
+Desc/
